@@ -104,4 +104,7 @@ venv.bak/
 .mypy_cache/
 
 
-query.txt
+query*.txt
+config.yaml
+results
+output.txt
